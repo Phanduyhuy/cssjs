@@ -111,7 +111,7 @@ jQuery(divpopup).attr('id', 'myModalthanh');
 jQuery(divpopup).attr('class', 'thanhfaceseo-modal');
 jQuery( "body" ).append(divpopup);
 var titleform='Đăng ký Form';
-var urlform="hhttps://huyphanland.blogspot.com/ttps://docs.google.com/forms/d/e/1FAIpQLSfLmBC0f3ipvca5eZeH48HotuzHmbF96XAMhjaMhOFKjmerRg/formResponse";
+var urlform="https://docs.google.com/forms/u/1/d/e/1FAIpQLScT9yI3IuU-WYwjAzKyRJvGJ-HbeRQSZA3eqNsimqVFSK8NTg/formResponse";
 var urlchuyen=window.location.href;
 var hovaten="1215145344";
 var dienthoai="429970231";
